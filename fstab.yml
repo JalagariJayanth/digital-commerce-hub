@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: https://https://author-p139816-e1420456.adobeaemcloud.com/bin/franklin.delivery/JalagariJayanth/digital-commerce-hub/main
+    type: "markup"
+    suffix: ".html"
