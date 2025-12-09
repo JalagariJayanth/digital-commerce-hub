@@ -1,0 +1,11 @@
+{
+  "paths": {
+    "mappings": [
+      "/content/digital-commerce-hub/:/",
+      "/content/digital-commerce-hub/configuration:/.helix/config.json"
+    ],
+    "includes": [
+      "/content/digital-commerce-hub/"
+    ]
+  }
+}
